@@ -1,5 +1,5 @@
 <?php
- $servername = "localhost"; 
+$servername = "db"; 
 $username = "usuario1"; 
 $password = "contrasenyaUsuario1"; 
 $dbname = "cine"; 
@@ -51,8 +51,6 @@ Trailer</a></td>";
  </table>
  </body>
  </html>
- DAW - Despliegue de aplicaciones web
  <?php
  $conn->close();
  ?>
- 4.
